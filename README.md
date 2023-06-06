@@ -1,5 +1,5 @@
 # Chat
-This is a very simple mobile chat app.
+Mobile chat app.
 
 ## Features
 Users can sign up/login to send messages.
